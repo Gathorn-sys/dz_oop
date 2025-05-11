@@ -1,0 +1,10 @@
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\obj\Debug\dz_oop.csproj.AssemblyReference.cache
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\obj\Debug\dz_oop.Properties.Resources.resources
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\obj\Debug\dz_oop.csproj.GenerateResource.cache
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\obj\Debug\dz_oop.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\bin\Debug\dz_oop.exe.config
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\bin\Debug\dz_oop.exe
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\bin\Debug\dz_oop.pdb
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\obj\Debug\dz_oop.Form1.resources
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\obj\Debug\dz_oop.exe
+C:\Users\Fujitsu\source\repos\dz_oop\dz_oop\obj\Debug\dz_oop.pdb
